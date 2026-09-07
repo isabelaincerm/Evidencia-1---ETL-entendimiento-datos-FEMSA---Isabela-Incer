@@ -9,6 +9,5 @@ Reporte de operaciones Spin Credit by OXXO
 ### Spin by OXXO es uno de los servicios de crédito digitales de FEMSA que surgió con el objetivo de brindar estos servicios a la población que no cuenta con historial bancario o acceso a bancos. Spin Credit es un intento de expandirse al negocio de los créditos, pero para ello necesita cumplir con varias regulaciones, cuyo objetivo en este proyecto es facilitar y garantizar su cumplimiento de la manera más eficiente. 
 
 
-Contenido del repositorio: docs/Entendimiento del problema y contexto de FEMSA 
 
 
